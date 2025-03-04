@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name" translatable="false">RCONnect</string>
+    <string name="title_activity_rcon_config_editor" translatable="false">RconConfigEditorActivity</string>
+    <string name="title_activity_rcon_connection" translatable="false">RconConnectionActivity</string>
+    <string name="rcon_config_editor_edit">Edit a config</string>
+    <string name="rcon_config_editor_config_name">Config name (optional)</string>
+    <string name="rcon_config_editor_connection_string">Connection string</string>
+    <string name="rcon_config_editor_connection_password">Connection password (optional)</string>
+    <string name="rcon_config_editor_save">Save</string>
+    <string name="rcon_config_editor_delete">Delete</string>
+    <string name="rcon_config_list_no_configs">No configs are present.\nClick the \'+\' button to create one.</string>
+    <string name="rcon_config_list_unnamed_connection">Unnamed connection</string>
+    <string name="rcon_connection_connection_attempt">Attempting connection to</string>
+    <string name="rcon_connection_connection_failed">Connection failed</string>
+    <string name="rcon_connection_auth_failed">Authentication failed</string>
+    <string name="rcon_connection_connection_successful">Successfully connected to</string>
+    <string name="rcon_connection_preparation_failure">Failed to prepare connection</string>
+    <string name="rcon_connection_empty_response">:::empty response:::</string>
+    <string name="rcon_connection_send_error">An error occurred when trying to send data</string>
+    <string name="rcon_connection_receive_error">An error occurred while trying to receive data</string>
+</resources>

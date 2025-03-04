@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rcon_config_editor_edit">Редактирование конфигурации</string>
+    <string name="rcon_config_editor_config_name">Название конфигурации (необязательно)</string>
+    <string name="rcon_config_editor_connection_string">Адрес соединения</string>
+    <string name="rcon_config_editor_connection_password">Пароль соединения (необязательно)</string>
+    <string name="rcon_config_editor_save">Сохранить</string>
+    <string name="rcon_config_editor_delete">Удалить</string>
+    <string name="rcon_config_list_no_configs">Отсутствуют сохранённые конфигурации.\nНажмите \'+\', чтобы добавить новую.</string>
+    <string name="rcon_config_list_unnamed_connection">Безымянная конфигурация</string>
+    <string name="rcon_connection_connection_attempt">Попытка соединения с</string>
+    <string name="rcon_connection_connection_failed">Соединение провалилось</string>
+    <string name="rcon_connection_auth_failed">Аутентификация провалилась</string>
+    <string name="rcon_connection_connection_successful">Успешное соединение с</string>
+    <string name="rcon_connection_preparation_failure">Соединение не может быть создано</string>
+    <string name="rcon_connection_empty_response">:::пустой ответ:::</string>
+    <string name="rcon_connection_receive_error">Во время получения пакетов произошла ошибка</string>
+    <string name="rcon_connection_send_error">Во время отправки пакетов произошла ошибка</string>
+</resources>
